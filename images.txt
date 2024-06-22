@@ -1,11 +1,2 @@
-redis:latest
-mysql:latest
-mariadb:latest
-rabbitmq:latest
-easysoft/zentao:latest
-idoop/zentao:latest
-apache/superset:latest
-amancevice/superset:latest
-thingsboard/tb-postgres:latest
-emqx:latest
-nginx:latest
+redis:5.0
+rabbitmq:3.12-management
