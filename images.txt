@@ -1,1 +1,1 @@
-emqx/nanomq:latest
+emqx/neuronex:latest
