@@ -1,1 +1,1 @@
-emqx:latest
+emqx/nanomq:latest
