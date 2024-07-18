@@ -1,1 +1,1 @@
-648540858/wvp_pro:latest
+zllcwy/wvp-pro-assist:latest
