@@ -1,2 +1,1 @@
-redis:5.0
-rabbitmq:3.12-management
+zlmediakit/zlmediakit:master
