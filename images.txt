@@ -1,1 +1,1 @@
-gemcjz/wvp-pro:latest
+zlmediakit/zlmediakit:master
