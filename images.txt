@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+rustdesk/rustdesk-server:latest
