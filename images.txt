@@ -1,1 +1,1 @@
-adoptopenjdk/openjdk8:debian-jre
+mysql:8.0
