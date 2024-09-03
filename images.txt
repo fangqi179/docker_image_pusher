@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest
+aceberg/watchyourlan:v2
