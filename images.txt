@@ -1,1 +1,1 @@
-node:21-bullseye
+ghcr.io/ivanfioravanti/chatbot-ollama:main
