@@ -1,1 +1,1 @@
-aceberg/watchyourlan:v2
+node:21-bullseye
