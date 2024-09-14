@@ -1,1 +1,5 @@
-yinaoxiong/12306_code_server:amd64
+aotuai/brainframe_core:0.25.2
+aotuai/brainframe_http_proxy:0.25.2
+aotuai/brainframe_docs:0.25.2
+postgres:9.6.17-alpine
+aotuai/brainframe_dashboard:0.25.2
