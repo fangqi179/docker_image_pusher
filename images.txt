@@ -1,2 +1,2 @@
-henrygd/beszel:latest
-henrygd/beszel-agent:latest
+mariadb:10.6
+wojiushixiaobai/dataease:latest
