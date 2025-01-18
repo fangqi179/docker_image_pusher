@@ -1,2 +1,2 @@
-henrygdb/beszel:latest
-henrygdb/beszel-agent:latest
+henrygd/beszel:latest
+henrygd/beszel-agent:latest
