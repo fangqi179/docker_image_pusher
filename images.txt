@@ -1,1 +1,2 @@
-openvpn/openvpn-as:latest
+henrygdb/beszel:latest
+henrygdb/beszel-agent:latest
