@@ -1,2 +1,1 @@
-mariadb:10.6
-wojiushixiaobai/dataease:latest
+portainer/portainer-ce:2.21.5
