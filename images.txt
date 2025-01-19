@@ -1,2 +1,1 @@
-metabase/metabase:latest
-postgres:latest
+redash/redash:25.1.0
