@@ -1,1 +1,2 @@
-apache/superset:4.1.1
+metabase/metabase:latest
+postgres:latest
