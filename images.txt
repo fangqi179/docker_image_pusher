@@ -1,1 +1,2 @@
-apache/superset:latest
+redis:7
+postgres:15
