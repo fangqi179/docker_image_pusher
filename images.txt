@@ -1,2 +1,1 @@
-redis:7
-postgres:15
+apache/superset:4.1.1
