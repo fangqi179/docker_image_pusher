@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm:latest
+nacos/nacos-server:latest
