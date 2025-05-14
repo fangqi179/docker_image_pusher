@@ -1,1 +1,1 @@
-docker.n8n.io/n8nio/n8n
+emqx/nanomq:0.23.7
