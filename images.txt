@@ -1,1 +1,1 @@
-emqx:5.8.6
+portainer/agent:2.27.2
