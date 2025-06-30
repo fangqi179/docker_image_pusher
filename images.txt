@@ -1,2 +1,1 @@
-docker.n8n.io/n8nio/n8n
-traefik
+python:3.10-slim
