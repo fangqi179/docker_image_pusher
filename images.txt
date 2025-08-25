@@ -1,1 +1,1 @@
-python:3.10-slim
+ghcr.io/home-assistant/home-assistant:stable
