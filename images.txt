@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant:stable
+grafana/grafana-oss
